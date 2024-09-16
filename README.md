@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-https://media.giphy.com/media/3oEduG3Gpf50zfgRDG/giphy.gif?cid=ecf05e4758dei3yk3nztdg8a89mggd7mwkkjx49477o7s4wd&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oEduG3Gpf50zfgRDG/giphy.gif?cid=ecf05e4758dei3yk3nztdg8a89mggd7mwkkjx49477o7s4wd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+</div>
 <!--
 **SukianCR/SukianCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
