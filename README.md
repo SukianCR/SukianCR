@@ -1,5 +1,5 @@
 ## Hi I'm Suki, nice to meet you 👋
-😃💕
+😃 💕 🖥 🖱 💽 👩‍💻 🤖 🌻 ⭐ 
 
 
 
