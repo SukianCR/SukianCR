@@ -21,8 +21,8 @@ I'm currently a bartender in Las Vegas. I found interest in mixology and decided
 
 <div id="header2" align="center">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI5cDdjejJrcWJya2E2Zm4zam92ZTZmNG1wbnY1czFhcjd4bWFuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" style="padding:2em;"/>
-<img src="https://media.giphy.com/media/3oEduG3Gpf50zfgRDG/giphy.gif?cid=ecf05e4758dei3yk3nztdg8a89mggd7mwkkjx49477o7s4wd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI5cDdjejJrcWJya2E2Zm4zam92ZTZmNG1wbnY1czFhcjd4bWFuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" style="padding:5em;"/>
+<img src="https://media.giphy.com/media/3oEduG3Gpf50zfgRDG/giphy.gif?cid=ecf05e4758dei3yk3nztdg8a89mggd7mwkkjx49477o7s4wd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" style="padding:5em;"/>
 
 </div>
 
