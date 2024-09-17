@@ -11,7 +11,7 @@
  <tr><td >
 Hello, I'm Suki (or Susana) . I am a legal inmigrant from Costa Rica who's been in the USA for 8 years. I was a coder in my past (php, mysql) but i got rusty when I moved to the USA and had to work in other fields. I just graduated from Full Stack Web Academy bootcamp where I learned all the new ways, platforms and tools used now days to do what I used to do. 
 
-I'm currently a bartender in Las Vegas. I found interest in mixology and decided to learn it, since I didn't know how to go back to IT. I always loved to code and I'm happy I finally learned what I needed to build my own ideas for projects related to art & culture. I'm also interested in coollaborating in open source group projects related also to art & culture .  I'm open and looking for work, hopefully remote or hybrid , where I can continue developing my skills and grow as a full stack web developer .
+I'm currently a bartender in Las Vegas. I found interest in mixology and decided to learn it, since I didn't know how to go back to IT. I always loved to code and I'm happy I finally learned what I needed to build my own ideas for projects related to art & culture. I'm also interested in coollaborating in open source group projects related also to art & culture .  I'm open and looking for work, hopefully remote or hybrid , where I can continue developing my skills and growing as a full stack web developer .
   
  </td></tr>
 
