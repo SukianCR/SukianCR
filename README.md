@@ -21,9 +21,15 @@ I'm currently a bartender in Las Vegas. I found interest in mixology and decided
 
 <div id="code" align="center" style="display:flex;justify-content: space-around;">
 
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e476amewceuuek9yyyykxcyop5j0e8youzxt7ynkkzh&ep=v1_gifs_related&rid=giphy.gif&ct=g
+" width="100" />
+<img src="https://media.giphy.com/media/ZBythhSiZAoYea6vC2/giphy.gif?cid=ecf05e47a6nx3i8s7vay1xj2n3qbkr8vfq6niscfggyb3nnt&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e475lks7q2o8pmfhaz81osiikai5ds2sv8uwrhwrpe2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e475lks7q2o8pmfhaz81osiikai5ds2sv8uwrhwrpe2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
+<img src="https://media.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.gif?cid=ecf05e47vb4y9f1eigqfme0qoioouw7y07y31008omata1mb&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
+<img src="https://media.giphy.com/media/9YK1vUKyYmGUEsCtmC/giphy.gif?cid=ecf05e47vb4y9f1eigqfme0qoioouw7y07y31008omata1mb&ep=v1_gifs_related&rid=giphy.gif&ct=g
+" width="100" />
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e475lks7q2o8pmfhaz81osiikai5ds2sv8uwrhwrpe2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e475lks7q2o8pmfhaz81osiikai5ds2sv8uwrhwrpe2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
 
 
 
