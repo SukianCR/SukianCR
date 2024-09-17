@@ -9,7 +9,7 @@
 <div id="header3" align="center">
 </div>
 
-<table style="width:800px; background-color:pink;">
+<table style="width:800px; color:pink;">
  <tr><td colspan=2></td></tr>
   <tr>
    <td>  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI5cDdjejJrcWJya2E2Zm4zam92ZTZmNG1wbnY1czFhcjd4bWFuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
